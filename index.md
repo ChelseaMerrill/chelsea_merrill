@@ -1,7 +1,7 @@
 ---
-title: Your Website
-author: Your Name Here
-description: "A quick website description"
+title: Chelsea Merrill 
+author: Chelsea Merrill
+description: A software developer who will help build the app of your dreams
 layout: default
 permalink: /
 ---

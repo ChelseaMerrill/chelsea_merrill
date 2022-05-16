@@ -1,13 +1,15 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Nebula Academy
+  description: A website dedicated to providing users information about our programs and services as well as functionality for students to apply to programs, businesses to sign-up for services, and potential employees to apply for open roles. 
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: We Connect The Dots
+  description: Using Gatsby, we migrated a site that was running on Squarespace to a fully functioning React App and created a database for users, administrators, news articles, and blog publications using DynamoDB. As the Team Lead on this project, I oversaw the group of developers and was responsible for all code review, task management and ticket creations, as well as developing the majority of the front-end code.
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: Blockbuster Online
+  description: Using React.js and a movie based API, I created an app that mimicked the functionalities of Netflix and gave users a look into what I believed Blockbuster could have looked like if the technology had been used back in the early 2000s at Blockbusters prime.  I displayed the movies and shows categorically and selected only those that would have been popular during that time as well as designed the site to have a very Y2K feel so that users felt fully immersed in the experience of the site. 
 
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Calculator
+  description: Using DOM manipulation we were instructed to design a functioning mathmatical calculator without using the built in method.  Due to this being a basic, four function calculator, I wanted to design my calculator in a way that was attractive to the users age group.  I drew my own backgrounds and image to give my calculator the look of a crayola box.  I created my own curser as a blank crayon and then designed a paint pallet so that the user could change the color of te curser which, in turn, changes the color of the screen text.
+
+

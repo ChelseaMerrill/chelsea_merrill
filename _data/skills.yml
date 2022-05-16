@@ -1,36 +1,23 @@
-header: Say something about what you're good at
+header: Being a developer requires much more than just being able to type code.
 
-subheader: Give some more context
+subheader: I have both technical and non-technical skills that work together to give clients that best possible combination of a person to have on their team.
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Technical Skills
+    description: JavaScript, React, Gatsby, HTML, CSS, Bootstrap, APIs,  Node.js, Express, AWS (Amplify, RDS, S3, EC2), PostgreSQL 
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Tools
+    description: Git, VS Code, Azure DevOps, MSFT Teams, MSFT OneNote, Salesforce
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Soft Skills
+    description: Communication, negotiation, organization, time-management
 
 #If you have certifications, talk about them here
 certifications:
-  - name: Certification 1
+  - name: AWS Cloud Practioner
     topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
+      - Managing the infrastructure of AWS cloud and values of AWS Cloud
+      - Cloud Architecture principles of AWS Cloud
+      - Account management, billing, and pricing in AWS
+      - AWS Cloud Deployment & Operation
 
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
-
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
